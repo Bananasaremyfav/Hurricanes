@@ -5,9 +5,10 @@ library(shinythemes)
 library(ggplot2)
 library(dplyr)
 library(stats)
+library(RCurl)
 
 ## DATASET ##
-Footy <- read.csv("C:/inst/shinyapp/Footballstats_2016_2017.csv")
+Footy <- read.csv(text=getURL("https://raw.githubusercontent.com/Bananasaremyfav/FootballApp/master/Footballstats_2016_2017.csv?_sm_au_=iVVHQjn54kq7vqtR"))
 Footy$Game_Number <- factor(Footy$Game_Number,levels=unique(Footy$Game_Number))
 
 # Define UI for application that draws a histogram

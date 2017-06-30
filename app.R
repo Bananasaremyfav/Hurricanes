@@ -7,7 +7,7 @@ library(dplyr)
 library(stats)
 
 ## DATASET ##
-Footy <- read.csv("C:/Football App/Footballstats_2016_2017.csv")
+Footy <- read.csv("C:/inst/shinyapp/Footballstats_2016_2017.csv")
 Footy$Game_Number <- factor(Footy$Game_Number,levels=unique(Footy$Game_Number))
 
 # Define UI for application that draws a histogram

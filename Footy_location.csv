@@ -1,0 +1,381 @@
+"","Date","HomeTeam","AwayTeam","FTHG","FTAG","Stadium name","Capacity","Latitude","Longitude"
+"1","14/08/2016","Arsenal","Liverpool",3,4,"Emirates Stadium","60,361",51.5549,-0.108436
+"2","10/9/2016","Arsenal","Southampton",2,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"3","24/09/2016","Arsenal","Chelsea",3,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"4","15/10/2016","Arsenal","Swansea",3,2,"Emirates Stadium","60,361",51.5549,-0.108436
+"5","22/10/2016","Arsenal","Middlesbrough",0,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"6","6/11/2016","Arsenal","Tottenham",1,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"7","27/11/2016","Arsenal","Bournemouth",3,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"8","10/12/2016","Arsenal","Stoke",3,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"9","26/12/2016","Arsenal","West Brom",1,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"10","1/1/2017","Arsenal","Crystal Palace",2,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"11","22/01/2017","Arsenal","Burnley",2,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"12","31/01/2017","Arsenal","Watford",1,2,"Emirates Stadium","60,361",51.5549,-0.108436
+"13","11/2/2017","Arsenal","Hull",2,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"14","2/4/2017","Arsenal","Man City",2,2,"Emirates Stadium","60,361",51.5549,-0.108436
+"15","5/4/2017","Arsenal","West Ham",3,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"16","26/04/2017","Arsenal","Leicester",1,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"17","7/5/2017","Arsenal","Man United",2,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"18","16/05/2017","Arsenal","Sunderland",2,0,"Emirates Stadium","60,361",51.5549,-0.108436
+"19","21/05/2017","Arsenal","Everton",3,1,"Emirates Stadium","60,361",51.5549,-0.108436
+"20","14/08/2016","Bournemouth","Man United",1,3,"Seward Stadium","10,700",50.7352,-1.83839
+"21","10/9/2016","Bournemouth","West Brom",1,0,"Seward Stadium","10,700",50.7352,-1.83839
+"22","24/09/2016","Bournemouth","Everton",1,0,"Seward Stadium","10,700",50.7352,-1.83839
+"23","15/10/2016","Bournemouth","Hull",6,1,"Seward Stadium","10,700",50.7352,-1.83839
+"24","22/10/2016","Bournemouth","Tottenham",0,0,"Seward Stadium","10,700",50.7352,-1.83839
+"25","5/11/2016","Bournemouth","Sunderland",1,2,"Seward Stadium","10,700",50.7352,-1.83839
+"26","4/12/2016","Bournemouth","Liverpool",4,3,"Seward Stadium","10,700",50.7352,-1.83839
+"27","13/12/2016","Bournemouth","Leicester",1,0,"Seward Stadium","10,700",50.7352,-1.83839
+"28","18/12/2016","Bournemouth","Southampton",1,3,"Seward Stadium","10,700",50.7352,-1.83839
+"29","3/1/2017","Bournemouth","Arsenal",3,3,"Seward Stadium","10,700",50.7352,-1.83839
+"30","21/01/2017","Bournemouth","Watford",2,2,"Seward Stadium","10,700",50.7352,-1.83839
+"31","31/01/2017","Bournemouth","Crystal Palace",0,2,"Seward Stadium","10,700",50.7352,-1.83839
+"32","13/02/2017","Bournemouth","Man City",0,2,"Seward Stadium","10,700",50.7352,-1.83839
+"33","11/3/2017","Bournemouth","West Ham",3,2,"Seward Stadium","10,700",50.7352,-1.83839
+"34","18/03/2017","Bournemouth","Swansea",2,0,"Seward Stadium","10,700",50.7352,-1.83839
+"35","8/4/2017","Bournemouth","Chelsea",1,3,"Seward Stadium","10,700",50.7352,-1.83839
+"36","22/04/2017","Bournemouth","Middlesbrough",4,0,"Seward Stadium","10,700",50.7352,-1.83839
+"37","6/5/2017","Bournemouth","Stoke",2,2,"Seward Stadium","10,700",50.7352,-1.83839
+"38","13/05/2017","Bournemouth","Burnley",2,1,"Seward Stadium","10,700",50.7352,-1.83839
+"39","13/08/2016","Burnley","Swansea",0,1,"Turf Moor","22,546",53.7888,-2.23018
+"40","20/08/2016","Burnley","Liverpool",2,0,"Turf Moor","22,546",53.7888,-2.23018
+"41","10/9/2016","Burnley","Hull",1,1,"Turf Moor","22,546",53.7888,-2.23018
+"42","26/09/2016","Burnley","Watford",2,0,"Turf Moor","22,546",53.7888,-2.23018
+"43","2/10/2016","Burnley","Arsenal",0,1,"Turf Moor","22,546",53.7888,-2.23018
+"44","22/10/2016","Burnley","Everton",2,1,"Turf Moor","22,546",53.7888,-2.23018
+"45","5/11/2016","Burnley","Crystal Palace",3,2,"Turf Moor","22,546",53.7888,-2.23018
+"46","26/11/2016","Burnley","Man City",1,2,"Turf Moor","22,546",53.7888,-2.23018
+"47","10/12/2016","Burnley","Bournemouth",3,2,"Turf Moor","22,546",53.7888,-2.23018
+"48","26/12/2016","Burnley","Middlesbrough",1,0,"Turf Moor","22,546",53.7888,-2.23018
+"49","31/12/2016","Burnley","Sunderland",4,1,"Turf Moor","22,546",53.7888,-2.23018
+"50","14/01/2017","Burnley","Southampton",1,0,"Turf Moor","22,546",53.7888,-2.23018
+"51","31/01/2017","Burnley","Leicester",1,0,"Turf Moor","22,546",53.7888,-2.23018
+"52","12/2/2017","Burnley","Chelsea",1,1,"Turf Moor","22,546",53.7888,-2.23018
+"53","1/4/2017","Burnley","Tottenham",0,2,"Turf Moor","22,546",53.7888,-2.23018
+"54","4/4/2017","Burnley","Stoke",1,0,"Turf Moor","22,546",53.7888,-2.23018
+"55","23/04/2017","Burnley","Man United",0,2,"Turf Moor","22,546",53.7888,-2.23018
+"56","6/5/2017","Burnley","West Brom",2,2,"Turf Moor","22,546",53.7888,-2.23018
+"57","21/05/2017","Burnley","West Ham",1,2,"Turf Moor","22,546",53.7888,-2.23018
+"58","15/08/2016","Chelsea","West Ham",2,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"59","27/08/2016","Chelsea","Burnley",3,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"60","16/09/2016","Chelsea","Liverpool",1,2,"Stamford Bridge","41,837",51.4816,-0.191034
+"61","15/10/2016","Chelsea","Leicester",3,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"62","23/10/2016","Chelsea","Man United",4,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"63","5/11/2016","Chelsea","Everton",5,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"64","26/11/2016","Chelsea","Tottenham",2,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"65","11/12/2016","Chelsea","West Brom",1,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"66","26/12/2016","Chelsea","Bournemouth",3,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"67","31/12/2016","Chelsea","Stoke",4,2,"Stamford Bridge","41,837",51.4816,-0.191034
+"68","22/01/2017","Chelsea","Hull",2,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"69","4/2/2017","Chelsea","Arsenal",3,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"70","25/02/2017","Chelsea","Swansea",3,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"71","1/4/2017","Chelsea","Crystal Palace",1,2,"Stamford Bridge","41,837",51.4816,-0.191034
+"72","5/4/2017","Chelsea","Man City",2,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"73","25/04/2017","Chelsea","Southampton",4,2,"Stamford Bridge","41,837",51.4816,-0.191034
+"74","8/5/2017","Chelsea","Middlesbrough",3,0,"Stamford Bridge","41,837",51.4816,-0.191034
+"75","15/05/2017","Chelsea","Watford",4,3,"Stamford Bridge","41,837",51.4816,-0.191034
+"76","21/05/2017","Chelsea","Sunderland",5,1,"Stamford Bridge","41,837",51.4816,-0.191034
+"77","13/08/2016","Crystal Palace","West Brom",0,1,"Selhurst Park","26,309",51.3983,-0.085455
+"78","27/08/2016","Crystal Palace","Bournemouth",1,1,"Selhurst Park","26,309",51.3983,-0.085455
+"79","18/09/2016","Crystal Palace","Stoke",4,1,"Selhurst Park","26,309",51.3983,-0.085455
+"80","15/10/2016","Crystal Palace","West Ham",0,1,"Selhurst Park","26,309",51.3983,-0.085455
+"81","29/10/2016","Crystal Palace","Liverpool",2,4,"Selhurst Park","26,309",51.3983,-0.085455
+"82","19/11/2016","Crystal Palace","Man City",1,2,"Selhurst Park","26,309",51.3983,-0.085455
+"83","3/12/2016","Crystal Palace","Southampton",3,0,"Selhurst Park","26,309",51.3983,-0.085455
+"84","14/12/2016","Crystal Palace","Man United",1,2,"Selhurst Park","26,309",51.3983,-0.085455
+"85","17/12/2016","Crystal Palace","Chelsea",0,1,"Selhurst Park","26,309",51.3983,-0.085455
+"86","3/1/2017","Crystal Palace","Swansea",1,2,"Selhurst Park","26,309",51.3983,-0.085455
+"87","21/01/2017","Crystal Palace","Everton",0,1,"Selhurst Park","26,309",51.3983,-0.085455
+"88","4/2/2017","Crystal Palace","Sunderland",0,4,"Selhurst Park","26,309",51.3983,-0.085455
+"89","25/02/2017","Crystal Palace","Middlesbrough",1,0,"Selhurst Park","26,309",51.3983,-0.085455
+"90","18/03/2017","Crystal Palace","Watford",1,0,"Selhurst Park","26,309",51.3983,-0.085455
+"91","10/4/2017","Crystal Palace","Arsenal",3,0,"Selhurst Park","26,309",51.3983,-0.085455
+"92","15/04/2017","Crystal Palace","Leicester",2,2,"Selhurst Park","26,309",51.3983,-0.085455
+"93","26/04/2017","Crystal Palace","Tottenham",0,1,"Selhurst Park","26,309",51.3983,-0.085455
+"94","29/04/2017","Crystal Palace","Burnley",0,2,"Selhurst Park","26,309",51.3983,-0.085455
+"95","14/05/2017","Crystal Palace","Hull",4,0,"Selhurst Park","26,309",51.3983,-0.085455
+"96","13/08/2016","Everton","Tottenham",1,1,"Goodison Park","40,157",53.4387,-2.96619
+"97","27/08/2016","Everton","Stoke",1,0,"Goodison Park","40,157",53.4387,-2.96619
+"98","17/09/2016","Everton","Middlesbrough",3,1,"Goodison Park","40,157",53.4387,-2.96619
+"99","30/09/2016","Everton","Crystal Palace",1,1,"Goodison Park","40,157",53.4387,-2.96619
+"100","30/10/2016","Everton","West Ham",2,0,"Goodison Park","40,157",53.4387,-2.96619
+"101","19/11/2016","Everton","Swansea",1,1,"Goodison Park","40,157",53.4387,-2.96619
+"102","4/12/2016","Everton","Man United",1,1,"Goodison Park","40,157",53.4387,-2.96619
+"103","13/12/2016","Everton","Arsenal",2,1,"Goodison Park","40,157",53.4387,-2.96619
+"104","19/12/2016","Everton","Liverpool",0,1,"Goodison Park","40,157",53.4387,-2.96619
+"105","2/1/2017","Everton","Southampton",3,0,"Goodison Park","40,157",53.4387,-2.96619
+"106","15/01/2017","Everton","Man City",4,0,"Goodison Park","40,157",53.4387,-2.96619
+"107","4/2/2017","Everton","Bournemouth",6,3,"Goodison Park","40,157",53.4387,-2.96619
+"108","25/02/2017","Everton","Sunderland",2,0,"Goodison Park","40,157",53.4387,-2.96619
+"109","11/3/2017","Everton","West Brom",3,0,"Goodison Park","40,157",53.4387,-2.96619
+"110","18/03/2017","Everton","Hull",4,0,"Goodison Park","40,157",53.4387,-2.96619
+"111","9/4/2017","Everton","Leicester",4,2,"Goodison Park","40,157",53.4387,-2.96619
+"112","15/04/2017","Everton","Burnley",3,1,"Goodison Park","40,157",53.4387,-2.96619
+"113","30/04/2017","Everton","Chelsea",0,3,"Goodison Park","40,157",53.4387,-2.96619
+"114","12/5/2017","Everton","Watford",1,0,"Goodison Park","40,157",53.4387,-2.96619
+"115","13/08/2016","Hull","Leicester",2,1,"KC Stadium","25,586",53.7465,-0.368009
+"116","27/08/2016","Hull","Man United",0,1,"KC Stadium","25,586",53.7465,-0.368009
+"117","17/09/2016","Hull","Arsenal",1,4,"KC Stadium","25,586",53.7465,-0.368009
+"118","1/10/2016","Hull","Chelsea",0,2,"KC Stadium","25,586",53.7465,-0.368009
+"119","22/10/2016","Hull","Stoke",0,2,"KC Stadium","25,586",53.7465,-0.368009
+"120","6/11/2016","Hull","Southampton",2,1,"KC Stadium","25,586",53.7465,-0.368009
+"121","26/11/2016","Hull","West Brom",1,1,"KC Stadium","25,586",53.7465,-0.368009
+"122","10/12/2016","Hull","Crystal Palace",3,3,"KC Stadium","25,586",53.7465,-0.368009
+"123","26/12/2016","Hull","Man City",0,3,"KC Stadium","25,586",53.7465,-0.368009
+"124","30/12/2016","Hull","Everton",2,2,"KC Stadium","25,586",53.7465,-0.368009
+"125","14/01/2017","Hull","Bournemouth",3,1,"KC Stadium","25,586",53.7465,-0.368009
+"126","4/2/2017","Hull","Liverpool",2,0,"KC Stadium","25,586",53.7465,-0.368009
+"127","25/02/2017","Hull","Burnley",1,1,"KC Stadium","25,586",53.7465,-0.368009
+"128","11/3/2017","Hull","Swansea",2,1,"KC Stadium","25,586",53.7465,-0.368009
+"129","1/4/2017","Hull","West Ham",2,1,"KC Stadium","25,586",53.7465,-0.368009
+"130","5/4/2017","Hull","Middlesbrough",4,2,"KC Stadium","25,586",53.7465,-0.368009
+"131","22/04/2017","Hull","Watford",2,0,"KC Stadium","25,586",53.7465,-0.368009
+"132","6/5/2017","Hull","Sunderland",0,2,"KC Stadium","25,586",53.7465,-0.368009
+"133","21/05/2017","Hull","Tottenham",1,7,"KC Stadium","25,586",53.7465,-0.368009
+"134","20/08/2016","Leicester","Arsenal",0,0,"King Power Stadium","32,262",52.6203,-1.14217
+"135","27/08/2016","Leicester","Swansea",2,1,"King Power Stadium","32,262",52.6203,-1.14217
+"136","17/09/2016","Leicester","Burnley",3,0,"King Power Stadium","32,262",52.6203,-1.14217
+"137","2/10/2016","Leicester","Southampton",0,0,"King Power Stadium","32,262",52.6203,-1.14217
+"138","22/10/2016","Leicester","Crystal Palace",3,1,"King Power Stadium","32,262",52.6203,-1.14217
+"139","6/11/2016","Leicester","West Brom",1,2,"King Power Stadium","32,262",52.6203,-1.14217
+"140","26/11/2016","Leicester","Middlesbrough",2,2,"King Power Stadium","32,262",52.6203,-1.14217
+"141","10/12/2016","Leicester","Man City",4,2,"King Power Stadium","32,262",52.6203,-1.14217
+"142","26/12/2016","Leicester","Everton",0,2,"King Power Stadium","32,262",52.6203,-1.14217
+"143","31/12/2016","Leicester","West Ham",1,0,"King Power Stadium","32,262",52.6203,-1.14217
+"144","14/01/2017","Leicester","Chelsea",0,3,"King Power Stadium","32,262",52.6203,-1.14217
+"145","5/2/2017","Leicester","Man United",0,3,"King Power Stadium","32,262",52.6203,-1.14217
+"146","27/02/2017","Leicester","Liverpool",3,1,"King Power Stadium","32,262",52.6203,-1.14217
+"147","4/3/2017","Leicester","Hull",3,1,"King Power Stadium","32,262",52.6203,-1.14217
+"148","1/4/2017","Leicester","Stoke",2,0,"King Power Stadium","32,262",52.6203,-1.14217
+"149","4/4/2017","Leicester","Sunderland",2,0,"King Power Stadium","32,262",52.6203,-1.14217
+"150","6/5/2017","Leicester","Watford",3,0,"King Power Stadium","32,262",52.6203,-1.14217
+"151","18/05/2017","Leicester","Tottenham",1,6,"King Power Stadium","32,262",52.6203,-1.14217
+"152","21/05/2017","Leicester","Bournemouth",1,1,"King Power Stadium","32,262",52.6203,-1.14217
+"153","10/9/2016","Liverpool","Leicester",4,1,"Anfield","45,522",53.4308,-2.96096
+"154","24/09/2016","Liverpool","Hull",5,1,"Anfield","45,522",53.4308,-2.96096
+"155","17/10/2016","Liverpool","Man United",0,0,"Anfield","45,522",53.4308,-2.96096
+"156","22/10/2016","Liverpool","West Brom",2,1,"Anfield","45,522",53.4308,-2.96096
+"157","6/11/2016","Liverpool","Watford",6,1,"Anfield","45,522",53.4308,-2.96096
+"158","26/11/2016","Liverpool","Sunderland",2,0,"Anfield","45,522",53.4308,-2.96096
+"159","11/12/2016","Liverpool","West Ham",2,2,"Anfield","45,522",53.4308,-2.96096
+"160","27/12/2016","Liverpool","Stoke",4,1,"Anfield","45,522",53.4308,-2.96096
+"161","31/12/2016","Liverpool","Man City",1,0,"Anfield","45,522",53.4308,-2.96096
+"162","21/01/2017","Liverpool","Swansea",2,3,"Anfield","45,522",53.4308,-2.96096
+"163","31/01/2017","Liverpool","Chelsea",1,1,"Anfield","45,522",53.4308,-2.96096
+"164","11/2/2017","Liverpool","Tottenham",2,0,"Anfield","45,522",53.4308,-2.96096
+"165","4/3/2017","Liverpool","Arsenal",3,1,"Anfield","45,522",53.4308,-2.96096
+"166","12/3/2017","Liverpool","Burnley",2,1,"Anfield","45,522",53.4308,-2.96096
+"167","1/4/2017","Liverpool","Everton",3,1,"Anfield","45,522",53.4308,-2.96096
+"168","5/4/2017","Liverpool","Bournemouth",2,2,"Anfield","45,522",53.4308,-2.96096
+"169","23/04/2017","Liverpool","Crystal Palace",1,2,"Anfield","45,522",53.4308,-2.96096
+"170","7/5/2017","Liverpool","Southampton",0,0,"Anfield","45,522",53.4308,-2.96096
+"171","21/05/2017","Liverpool","Middlesbrough",3,0,"Anfield","45,522",53.4308,-2.96096
+"172","13/08/2016","Man City","Sunderland",2,1,"Etihad Stadium","47,805",53.483,-2.20024
+"173","28/08/2016","Man City","West Ham",3,1,"Etihad Stadium","47,805",53.483,-2.20024
+"174","17/09/2016","Man City","Bournemouth",4,0,"Etihad Stadium","47,805",53.483,-2.20024
+"175","15/10/2016","Man City","Everton",1,1,"Etihad Stadium","47,805",53.483,-2.20024
+"176","23/10/2016","Man City","Southampton",1,1,"Etihad Stadium","47,805",53.483,-2.20024
+"177","5/11/2016","Man City","Middlesbrough",1,1,"Etihad Stadium","47,805",53.483,-2.20024
+"178","3/12/2016","Man City","Chelsea",1,3,"Etihad Stadium","47,805",53.483,-2.20024
+"179","14/12/2016","Man City","Watford",2,0,"Etihad Stadium","47,805",53.483,-2.20024
+"180","18/12/2016","Man City","Arsenal",2,1,"Etihad Stadium","47,805",53.483,-2.20024
+"181","2/1/2017","Man City","Burnley",2,1,"Etihad Stadium","47,805",53.483,-2.20024
+"182","21/01/2017","Man City","Tottenham",2,2,"Etihad Stadium","47,805",53.483,-2.20024
+"183","5/2/2017","Man City","Swansea",2,1,"Etihad Stadium","47,805",53.483,-2.20024
+"184","8/3/2017","Man City","Stoke",0,0,"Etihad Stadium","47,805",53.483,-2.20024
+"185","19/03/2017","Man City","Liverpool",1,1,"Etihad Stadium","47,805",53.483,-2.20024
+"186","8/4/2017","Man City","Hull",3,1,"Etihad Stadium","47,805",53.483,-2.20024
+"187","27/04/2017","Man City","Man United",0,0,"Etihad Stadium","47,805",53.483,-2.20024
+"188","6/5/2017","Man City","Crystal Palace",5,0,"Etihad Stadium","47,805",53.483,-2.20024
+"189","13/05/2017","Man City","Leicester",2,1,"Etihad Stadium","47,805",53.483,-2.20024
+"190","16/05/2017","Man City","West Brom",3,1,"Etihad Stadium","47,805",53.483,-2.20024
+"191","19/08/2016","Man United","Southampton",2,0,"Old Trafford","75,811",53.4631,-2.29139
+"192","10/9/2016","Man United","Man City",1,2,"Old Trafford","75,811",53.4631,-2.29139
+"193","24/09/2016","Man United","Leicester",4,1,"Old Trafford","75,811",53.4631,-2.29139
+"194","2/10/2016","Man United","Stoke",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"195","29/10/2016","Man United","Burnley",0,0,"Old Trafford","75,811",53.4631,-2.29139
+"196","19/11/2016","Man United","Arsenal",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"197","27/11/2016","Man United","West Ham",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"198","11/12/2016","Man United","Tottenham",1,0,"Old Trafford","75,811",53.4631,-2.29139
+"199","26/12/2016","Man United","Sunderland",3,1,"Old Trafford","75,811",53.4631,-2.29139
+"200","31/12/2016","Man United","Middlesbrough",2,1,"Old Trafford","75,811",53.4631,-2.29139
+"201","15/01/2017","Man United","Liverpool",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"202","1/2/2017","Man United","Hull",0,0,"Old Trafford","75,811",53.4631,-2.29139
+"203","11/2/2017","Man United","Watford",2,0,"Old Trafford","75,811",53.4631,-2.29139
+"204","4/3/2017","Man United","Bournemouth",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"205","1/4/2017","Man United","West Brom",0,0,"Old Trafford","75,811",53.4631,-2.29139
+"206","4/4/2017","Man United","Everton",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"207","16/04/2017","Man United","Chelsea",2,0,"Old Trafford","75,811",53.4631,-2.29139
+"208","30/04/2017","Man United","Swansea",1,1,"Old Trafford","75,811",53.4631,-2.29139
+"209","21/05/2017","Man United","Crystal Palace",2,0,"Old Trafford","75,811",53.4631,-2.29139
+"210","13/08/2016","Middlesbrough","Stoke",1,1,"Riverside","34,988",54.5781,-1.21776
+"211","10/9/2016","Middlesbrough","Crystal Palace",1,2,"Riverside","34,988",54.5781,-1.21776
+"212","24/09/2016","Middlesbrough","Tottenham",1,2,"Riverside","34,988",54.5781,-1.21776
+"213","16/10/2016","Middlesbrough","Watford",0,1,"Riverside","34,988",54.5781,-1.21776
+"214","29/10/2016","Middlesbrough","Bournemouth",2,0,"Riverside","34,988",54.5781,-1.21776
+"215","20/11/2016","Middlesbrough","Chelsea",0,1,"Riverside","34,988",54.5781,-1.21776
+"216","5/12/2016","Middlesbrough","Hull",1,0,"Riverside","34,988",54.5781,-1.21776
+"217","14/12/2016","Middlesbrough","Liverpool",0,3,"Riverside","34,988",54.5781,-1.21776
+"218","17/12/2016","Middlesbrough","Swansea",3,0,"Riverside","34,988",54.5781,-1.21776
+"219","2/1/2017","Middlesbrough","Leicester",0,0,"Riverside","34,988",54.5781,-1.21776
+"220","21/01/2017","Middlesbrough","West Ham",1,3,"Riverside","34,988",54.5781,-1.21776
+"221","31/01/2017","Middlesbrough","West Brom",1,1,"Riverside","34,988",54.5781,-1.21776
+"222","11/2/2017","Middlesbrough","Everton",0,0,"Riverside","34,988",54.5781,-1.21776
+"223","19/03/2017","Middlesbrough","Man United",1,3,"Riverside","34,988",54.5781,-1.21776
+"224","8/4/2017","Middlesbrough","Burnley",0,0,"Riverside","34,988",54.5781,-1.21776
+"225","17/04/2017","Middlesbrough","Arsenal",1,2,"Riverside","34,988",54.5781,-1.21776
+"226","26/04/2017","Middlesbrough","Sunderland",1,0,"Riverside","34,988",54.5781,-1.21776
+"227","30/04/2017","Middlesbrough","Man City",2,2,"Riverside","34,988",54.5781,-1.21776
+"228","13/05/2017","Middlesbrough","Southampton",1,2,"Riverside","34,988",54.5781,-1.21776
+"229","13/08/2016","Southampton","Watford",1,1,"St Mary's Stadium","32,689",50.9058,-1.39114
+"230","27/08/2016","Southampton","Sunderland",1,1,"St Mary's Stadium","32,689",50.9058,-1.39114
+"231","18/09/2016","Southampton","Swansea",1,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"232","16/10/2016","Southampton","Burnley",3,1,"St Mary's Stadium","32,689",50.9058,-1.39114
+"233","30/10/2016","Southampton","Chelsea",0,2,"St Mary's Stadium","32,689",50.9058,-1.39114
+"234","19/11/2016","Southampton","Liverpool",0,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"235","27/11/2016","Southampton","Everton",1,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"236","11/12/2016","Southampton","Middlesbrough",1,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"237","28/12/2016","Southampton","Tottenham",1,4,"St Mary's Stadium","32,689",50.9058,-1.39114
+"238","31/12/2016","Southampton","West Brom",1,2,"St Mary's Stadium","32,689",50.9058,-1.39114
+"239","22/01/2017","Southampton","Leicester",3,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"240","4/2/2017","Southampton","West Ham",1,3,"St Mary's Stadium","32,689",50.9058,-1.39114
+"241","1/4/2017","Southampton","Bournemouth",0,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"242","5/4/2017","Southampton","Crystal Palace",3,1,"St Mary's Stadium","32,689",50.9058,-1.39114
+"243","15/04/2017","Southampton","Man City",0,3,"St Mary's Stadium","32,689",50.9058,-1.39114
+"244","29/04/2017","Southampton","Hull",0,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"245","10/5/2017","Southampton","Arsenal",0,2,"St Mary's Stadium","32,689",50.9058,-1.39114
+"246","17/05/2017","Southampton","Man United",0,0,"St Mary's Stadium","32,689",50.9058,-1.39114
+"247","21/05/2017","Southampton","Stoke",0,1,"St Mary's Stadium","32,689",50.9058,-1.39114
+"248","20/08/2016","Stoke","Man City",1,4,"Britannia Stadium","27,902",52.9884,-2.17542
+"249","10/9/2016","Stoke","Tottenham",0,4,"Britannia Stadium","27,902",52.9884,-2.17542
+"250","24/09/2016","Stoke","West Brom",1,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"251","15/10/2016","Stoke","Sunderland",2,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"252","31/10/2016","Stoke","Swansea",3,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"253","19/11/2016","Stoke","Bournemouth",0,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"254","3/12/2016","Stoke","Burnley",2,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"255","14/12/2016","Stoke","Southampton",0,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"256","17/12/2016","Stoke","Leicester",2,2,"Britannia Stadium","27,902",52.9884,-2.17542
+"257","3/1/2017","Stoke","Watford",2,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"258","21/01/2017","Stoke","Man United",1,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"259","1/2/2017","Stoke","Everton",1,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"260","11/2/2017","Stoke","Crystal Palace",1,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"261","4/3/2017","Stoke","Middlesbrough",2,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"262","18/03/2017","Stoke","Chelsea",1,2,"Britannia Stadium","27,902",52.9884,-2.17542
+"263","8/4/2017","Stoke","Liverpool",1,2,"Britannia Stadium","27,902",52.9884,-2.17542
+"264","15/04/2017","Stoke","Hull",3,1,"Britannia Stadium","27,902",52.9884,-2.17542
+"265","29/04/2017","Stoke","West Ham",0,0,"Britannia Stadium","27,902",52.9884,-2.17542
+"266","13/05/2017","Stoke","Arsenal",1,4,"Britannia Stadium","27,902",52.9884,-2.17542
+"267","21/08/2016","Sunderland","Middlesbrough",1,2,"Stadium of Light","49,000",54.9146,-1.38837
+"268","12/9/2016","Sunderland","Everton",0,3,"Stadium of Light","49,000",54.9146,-1.38837
+"269","24/09/2016","Sunderland","Crystal Palace",2,3,"Stadium of Light","49,000",54.9146,-1.38837
+"270","1/10/2016","Sunderland","West Brom",1,1,"Stadium of Light","49,000",54.9146,-1.38837
+"271","29/10/2016","Sunderland","Arsenal",1,4,"Stadium of Light","49,000",54.9146,-1.38837
+"272","19/11/2016","Sunderland","Hull",3,0,"Stadium of Light","49,000",54.9146,-1.38837
+"273","3/12/2016","Sunderland","Leicester",2,1,"Stadium of Light","49,000",54.9146,-1.38837
+"274","14/12/2016","Sunderland","Chelsea",0,1,"Stadium of Light","49,000",54.9146,-1.38837
+"275","17/12/2016","Sunderland","Watford",1,0,"Stadium of Light","49,000",54.9146,-1.38837
+"276","2/1/2017","Sunderland","Liverpool",2,2,"Stadium of Light","49,000",54.9146,-1.38837
+"277","14/01/2017","Sunderland","Stoke",1,3,"Stadium of Light","49,000",54.9146,-1.38837
+"278","31/01/2017","Sunderland","Tottenham",0,0,"Stadium of Light","49,000",54.9146,-1.38837
+"279","11/2/2017","Sunderland","Southampton",0,4,"Stadium of Light","49,000",54.9146,-1.38837
+"280","5/3/2017","Sunderland","Man City",0,2,"Stadium of Light","49,000",54.9146,-1.38837
+"281","18/03/2017","Sunderland","Burnley",0,0,"Stadium of Light","49,000",54.9146,-1.38837
+"282","9/4/2017","Sunderland","Man United",0,3,"Stadium of Light","49,000",54.9146,-1.38837
+"283","15/04/2017","Sunderland","West Ham",2,2,"Stadium of Light","49,000",54.9146,-1.38837
+"284","29/04/2017","Sunderland","Bournemouth",0,1,"Stadium of Light","49,000",54.9146,-1.38837
+"285","13/05/2017","Sunderland","Swansea",0,2,"Stadium of Light","49,000",54.9146,-1.38837
+"286","20/08/2016","Swansea","Hull",0,2,"Liberty Stadium","20,532",51.6428,-3.93473
+"287","11/9/2016","Swansea","Chelsea",2,2,"Liberty Stadium","20,532",51.6428,-3.93473
+"288","24/09/2016","Swansea","Man City",1,3,"Liberty Stadium","20,532",51.6428,-3.93473
+"289","1/10/2016","Swansea","Liverpool",1,2,"Liberty Stadium","20,532",51.6428,-3.93473
+"290","22/10/2016","Swansea","Watford",0,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"291","6/11/2016","Swansea","Man United",1,3,"Liberty Stadium","20,532",51.6428,-3.93473
+"292","26/11/2016","Swansea","Crystal Palace",5,4,"Liberty Stadium","20,532",51.6428,-3.93473
+"293","10/12/2016","Swansea","Sunderland",3,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"294","26/12/2016","Swansea","West Ham",1,4,"Liberty Stadium","20,532",51.6428,-3.93473
+"295","31/12/2016","Swansea","Bournemouth",0,3,"Liberty Stadium","20,532",51.6428,-3.93473
+"296","14/01/2017","Swansea","Arsenal",0,4,"Liberty Stadium","20,532",51.6428,-3.93473
+"297","31/01/2017","Swansea","Southampton",2,1,"Liberty Stadium","20,532",51.6428,-3.93473
+"298","12/2/2017","Swansea","Leicester",2,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"299","4/3/2017","Swansea","Burnley",3,2,"Liberty Stadium","20,532",51.6428,-3.93473
+"300","2/4/2017","Swansea","Middlesbrough",0,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"301","5/4/2017","Swansea","Tottenham",1,3,"Liberty Stadium","20,532",51.6428,-3.93473
+"302","22/04/2017","Swansea","Stoke",2,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"303","6/5/2017","Swansea","Everton",1,0,"Liberty Stadium","20,532",51.6428,-3.93473
+"304","21/05/2017","Swansea","West Brom",2,1,"Liberty Stadium","20,532",51.6428,-3.93473
+"305","20/08/2016","Tottenham","Crystal Palace",1,0,"White Hart Lane","36,230",51.6033,-0.065684
+"306","27/08/2016","Tottenham","Liverpool",1,1,"White Hart Lane","36,230",51.6033,-0.065684
+"307","18/09/2016","Tottenham","Sunderland",1,0,"White Hart Lane","36,230",51.6033,-0.065684
+"308","2/10/2016","Tottenham","Man City",2,0,"White Hart Lane","36,230",51.6033,-0.065684
+"309","29/10/2016","Tottenham","Leicester",1,1,"White Hart Lane","36,230",51.6033,-0.065684
+"310","19/11/2016","Tottenham","West Ham",3,2,"White Hart Lane","36,230",51.6033,-0.065684
+"311","3/12/2016","Tottenham","Swansea",5,0,"White Hart Lane","36,230",51.6033,-0.065684
+"312","14/12/2016","Tottenham","Hull",3,0,"White Hart Lane","36,230",51.6033,-0.065684
+"313","18/12/2016","Tottenham","Burnley",2,1,"White Hart Lane","36,230",51.6033,-0.065684
+"314","4/1/2017","Tottenham","Chelsea",2,0,"White Hart Lane","36,230",51.6033,-0.065684
+"315","14/01/2017","Tottenham","West Brom",4,0,"White Hart Lane","36,230",51.6033,-0.065684
+"316","4/2/2017","Tottenham","Middlesbrough",1,0,"White Hart Lane","36,230",51.6033,-0.065684
+"317","26/02/2017","Tottenham","Stoke",4,0,"White Hart Lane","36,230",51.6033,-0.065684
+"318","5/3/2017","Tottenham","Everton",3,2,"White Hart Lane","36,230",51.6033,-0.065684
+"319","19/03/2017","Tottenham","Southampton",2,1,"White Hart Lane","36,230",51.6033,-0.065684
+"320","8/4/2017","Tottenham","Watford",4,0,"White Hart Lane","36,230",51.6033,-0.065684
+"321","15/04/2017","Tottenham","Bournemouth",4,0,"White Hart Lane","36,230",51.6033,-0.065684
+"322","30/04/2017","Tottenham","Arsenal",2,0,"White Hart Lane","36,230",51.6033,-0.065684
+"323","14/05/2017","Tottenham","Man United",2,1,"White Hart Lane","36,230",51.6033,-0.065684
+"324","20/08/2016","Watford","Chelsea",1,2,"Vicarage Road","17,477",51.6498,-0.401569
+"325","27/08/2016","Watford","Arsenal",1,3,"Vicarage Road","17,477",51.6498,-0.401569
+"326","18/09/2016","Watford","Man United",3,1,"Vicarage Road","17,477",51.6498,-0.401569
+"327","1/10/2016","Watford","Bournemouth",2,2,"Vicarage Road","17,477",51.6498,-0.401569
+"328","29/10/2016","Watford","Hull",1,0,"Vicarage Road","17,477",51.6498,-0.401569
+"329","19/11/2016","Watford","Leicester",2,1,"Vicarage Road","17,477",51.6498,-0.401569
+"330","27/11/2016","Watford","Stoke",0,1,"Vicarage Road","17,477",51.6498,-0.401569
+"331","10/12/2016","Watford","Everton",3,2,"Vicarage Road","17,477",51.6498,-0.401569
+"332","26/12/2016","Watford","Crystal Palace",1,1,"Vicarage Road","17,477",51.6498,-0.401569
+"333","1/1/2017","Watford","Tottenham",1,4,"Vicarage Road","17,477",51.6498,-0.401569
+"334","14/01/2017","Watford","Middlesbrough",0,0,"Vicarage Road","17,477",51.6498,-0.401569
+"335","4/2/2017","Watford","Burnley",2,1,"Vicarage Road","17,477",51.6498,-0.401569
+"336","25/02/2017","Watford","West Ham",1,1,"Vicarage Road","17,477",51.6498,-0.401569
+"337","4/3/2017","Watford","Southampton",3,4,"Vicarage Road","17,477",51.6498,-0.401569
+"338","1/4/2017","Watford","Sunderland",1,0,"Vicarage Road","17,477",51.6498,-0.401569
+"339","4/4/2017","Watford","West Brom",2,0,"Vicarage Road","17,477",51.6498,-0.401569
+"340","15/04/2017","Watford","Swansea",1,0,"Vicarage Road","17,477",51.6498,-0.401569
+"341","1/5/2017","Watford","Liverpool",0,1,"Vicarage Road","17,477",51.6498,-0.401569
+"342","21/05/2017","Watford","Man City",0,5,"Vicarage Road","17,477",51.6498,-0.401569
+"343","20/08/2016","West Brom","Everton",1,2,"The Hawthorns","26,272",52.509,-1.96418
+"344","28/08/2016","West Brom","Middlesbrough",0,0,"The Hawthorns","26,272",52.509,-1.96418
+"345","17/09/2016","West Brom","West Ham",4,2,"The Hawthorns","26,272",52.509,-1.96418
+"346","15/10/2016","West Brom","Tottenham",1,1,"The Hawthorns","26,272",52.509,-1.96418
+"347","29/10/2016","West Brom","Man City",0,4,"The Hawthorns","26,272",52.509,-1.96418
+"348","21/11/2016","West Brom","Burnley",4,0,"The Hawthorns","26,272",52.509,-1.96418
+"349","3/12/2016","West Brom","Watford",3,1,"The Hawthorns","26,272",52.509,-1.96418
+"350","14/12/2016","West Brom","Swansea",3,1,"The Hawthorns","26,272",52.509,-1.96418
+"351","17/12/2016","West Brom","Man United",0,2,"The Hawthorns","26,272",52.509,-1.96418
+"352","2/1/2017","West Brom","Hull",3,1,"The Hawthorns","26,272",52.509,-1.96418
+"353","21/01/2017","West Brom","Sunderland",2,0,"The Hawthorns","26,272",52.509,-1.96418
+"354","4/2/2017","West Brom","Stoke",1,0,"The Hawthorns","26,272",52.509,-1.96418
+"355","25/02/2017","West Brom","Bournemouth",2,1,"The Hawthorns","26,272",52.509,-1.96418
+"356","4/3/2017","West Brom","Crystal Palace",0,2,"The Hawthorns","26,272",52.509,-1.96418
+"357","18/03/2017","West Brom","Arsenal",3,1,"The Hawthorns","26,272",52.509,-1.96418
+"358","8/4/2017","West Brom","Southampton",0,1,"The Hawthorns","26,272",52.509,-1.96418
+"359","16/04/2017","West Brom","Liverpool",0,1,"The Hawthorns","26,272",52.509,-1.96418
+"360","29/04/2017","West Brom","Leicester",0,1,"The Hawthorns","26,272",52.509,-1.96418
+"361","12/5/2017","West Brom","Chelsea",0,1,"The Hawthorns","26,272",52.509,-1.96418
+"362","21/08/2016","West Ham","Bournemouth",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"363","10/9/2016","West Ham","Watford",2,4,"Olympic Stadium","60,000",51.5383,-0.016587
+"364","25/09/2016","West Ham","Southampton",0,3,"Olympic Stadium","60,000",51.5383,-0.016587
+"365","1/10/2016","West Ham","Middlesbrough",1,1,"Olympic Stadium","60,000",51.5383,-0.016587
+"366","22/10/2016","West Ham","Sunderland",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"367","5/11/2016","West Ham","Stoke",1,1,"Olympic Stadium","60,000",51.5383,-0.016587
+"368","3/12/2016","West Ham","Arsenal",1,5,"Olympic Stadium","60,000",51.5383,-0.016587
+"369","14/12/2016","West Ham","Burnley",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"370","17/12/2016","West Ham","Hull",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"371","2/1/2017","West Ham","Man United",0,2,"Olympic Stadium","60,000",51.5383,-0.016587
+"372","14/01/2017","West Ham","Crystal Palace",3,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"373","1/2/2017","West Ham","Man City",0,4,"Olympic Stadium","60,000",51.5383,-0.016587
+"374","11/2/2017","West Ham","West Brom",2,2,"Olympic Stadium","60,000",51.5383,-0.016587
+"375","6/3/2017","West Ham","Chelsea",1,2,"Olympic Stadium","60,000",51.5383,-0.016587
+"376","18/03/2017","West Ham","Leicester",2,3,"Olympic Stadium","60,000",51.5383,-0.016587
+"377","8/4/2017","West Ham","Swansea",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"378","22/04/2017","West Ham","Everton",0,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"379","5/5/2017","West Ham","Tottenham",1,0,"Olympic Stadium","60,000",51.5383,-0.016587
+"380","14/05/2017","West Ham","Liverpool",0,4,"Olympic Stadium","60,000",51.5383,-0.016587
